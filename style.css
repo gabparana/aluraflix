@@ -1,5 +1,32 @@
 body {
-
     color: rgb(5, 5, 255);
     background-color: rgb(230, 14, 14);
+font-family "Bokor" , system-ui:
+}
+
+.chamada{
+    background-color: aqua; rgba(0, 225, 42, 0, 533);
+    padding-top: 80px
+    padding-bottom 80px;
+    display- flex;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.chamaa-texto {
+    margin-right: 10px
+}
+h1;{
+    front-size: 30px;
+}
+p{
+    font-size: 30px;
+}
+header{
+    front: size 30px;
+    padding-left: 20px;
+}
+img{
+    height: 200px;
 }
